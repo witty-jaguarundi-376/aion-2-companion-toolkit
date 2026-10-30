@@ -1,0 +1,22 @@
+{
+  "name": "aion-2-companion-toolkit",
+  "displayName": "AION 2 Companion Toolkit",
+  "programType": "companion-toolkit",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Character profiles",
+    "Activity notes",
+    "Equipment planning"
+  ],
+  "topics": [
+    "aion-2-companion-toolkit",
+    "aion-2-tools",
+    "aion-2-menu",
+    "aion-2-settings",
+    "aion-2-configs",
+    "aion-2-character-profiles",
+    "aion-2-activity-notes"
+  ]
+}
